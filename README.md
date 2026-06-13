@@ -1,4 +1,4 @@
-# belajar-html
+# belajar-html-pemula
 Panduan belajar HTML dari nol untuk pemula
 # Belajar HTML
 
